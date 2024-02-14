@@ -10,6 +10,9 @@ fi
 # Install required Python packages
 pip install opencv-python pyzbar
 
+#Install numpy 
+pip install numpy
+
 #Install pyrealsense2
 pip install pyrealsense2
 
