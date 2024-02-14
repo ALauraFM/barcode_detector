@@ -16,7 +16,7 @@ The barcode decoding process follows these steps:
 
 ## How to Use
 
-To use the barcode decoder, follow these steps:
+To use the barcode decoder code, follow these steps:
 
 1. Clone or download this repository to your computer
 2. Ensure you have a realsense camera connected to the computer.
