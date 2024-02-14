@@ -14,7 +14,7 @@ pip install opencv-python pyzbar
 pip install pyrealsense2
 
 # Run the Python script
-python3 barcode_reader.py  
+python3 /src/barcode_reader.py  
 
 
 # Exit the script
