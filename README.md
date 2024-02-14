@@ -19,7 +19,7 @@ The barcode decoding process follows these steps:
 To use the barcode decoder, follow these steps:
 
 1. Clone or download this repository to your computer
-2. Ensure you have a camera connected to the computer.
+2. Ensure you have a realsense camera connected to the computer.
 3. Run the `start.sh` script to start the decoder, as it follows:
 
 ```
