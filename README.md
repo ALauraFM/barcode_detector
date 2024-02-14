@@ -1,4 +1,4 @@
-# barcode_detector
+# Barcode Reader using python
 This is a Python script to decode barcodes from images captured by a camera. It uses the OpenCV library for image processing and the pyzbar library for barcode decoding.
 
 ## Functionality
