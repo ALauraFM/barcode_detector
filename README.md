@@ -25,4 +25,4 @@ To use the barcode decoder, follow these steps:
 ```
 ./start.sh
 ```
-The start.sh script contais the installation of all the prerequisites recquired to run the code
+The start.sh script contains the installation of all the prerequisites recquired to run the code
